@@ -1,0 +1,6 @@
+## YAML Template.
+
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/biblio?zeroDateTimeBehavior=convertToNull
+dbuser=root
+dbpassword=
